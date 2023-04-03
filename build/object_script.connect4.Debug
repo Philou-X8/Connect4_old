@@ -1,0 +1,17 @@
+debug/CustomLabel.o
+debug/GameBoard.o
+debug/NameWidget.o
+debug/fenetreAPropos.o
+debug/fenetreAcceuil.o
+debug/fenetreJeu.o
+debug/fenetrePrincipale.o
+debug/fenetreRegles.o
+debug/main.o
+debug/moc_CustomLabel.o
+debug/moc_GameBoard.o
+debug/moc_NameWidget.o
+debug/moc_fenetreAPropos.o
+debug/moc_fenetreAcceuil.o
+debug/moc_fenetreJeu.o
+debug/moc_fenetrePrincipale.o
+debug/moc_fenetreRegles.o

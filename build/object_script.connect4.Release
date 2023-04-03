@@ -1,0 +1,17 @@
+release/CustomLabel.o
+release/GameBoard.o
+release/NameWidget.o
+release/fenetreAPropos.o
+release/fenetreAcceuil.o
+release/fenetreJeu.o
+release/fenetrePrincipale.o
+release/fenetreRegles.o
+release/main.o
+release/moc_CustomLabel.o
+release/moc_GameBoard.o
+release/moc_NameWidget.o
+release/moc_fenetreAPropos.o
+release/moc_fenetreAcceuil.o
+release/moc_fenetreJeu.o
+release/moc_fenetrePrincipale.o
+release/moc_fenetreRegles.o
